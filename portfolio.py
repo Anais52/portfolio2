@@ -3,7 +3,7 @@ import streamlit as st
 
 
 with st.sidebar:
-    st.image("IMG_2839.jpeg",width=250)
+    st.image("./IMG_2839.jpeg",width=250)
     nom=st.subheader("ANAIS SANDRINE SAMBOU")
     st.header("🎗️TECHNICIENNE SUPERIEURE EN GEOMATIQUE")
     email=st.write("EMAIL:annaissandrinesambou@gmail.com")
